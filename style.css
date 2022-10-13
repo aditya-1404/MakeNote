@@ -97,7 +97,7 @@ width: 100vw;
 }
 .cross{
   display: inline-block;
-  color: white;
+  color: #fff;
   height: 10px;
   width: 4px;
   position: absolute;

@@ -1,3 +1,2 @@
 # MakeNote
-
-demon-14.github.io/MakeNote
+https://aditya-1404.github.io/MakeNote/

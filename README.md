@@ -1,24 +1,29 @@
 # MakeNote
 
 
-The MakeNote App is a web application that allows users to create and store notes directly in the browser's local storage. This means that all notes are saved on the user's device, allowing for easy access and retrieval of notes without the need for any server-side storage. Below, you will find information on how to use the Notes App and how it is structured.
-
-
+The Notes App is a lightweight and user-friendly web application designed to help you organize your thoughts, ideas, to-do lists, and important information in the form of digital notes. Unlike traditional note-taking apps that require server-side storage, the Notes App leverages the browser's local storage to store all your notes directly on your device. This approach ensures data privacy, as your notes stay within your browser and are not transmitted to any external servers.
+<br><br>
 
 
 ![image](https://github.com/aditya-1404/MakeNote/assets/91134591/be38b612-cfb1-4520-ab62-4064e5cfb82f)
+<br>
+<br>
 
 ![image](https://github.com/aditya-1404/MakeNote/assets/91134591/39d44621-b360-4368-9d1c-2a3149877b1e)
+<br>
+<br>
 
 
+  
+  <br>![NotesApp - Google Chrome 2023-07-16 03-18-41 (1)](https://github.com/aditya-1404/MakeNote/assets/91134591/14f2f2b9-1f42-40bf-b1ac-0e9ace358f16)
 
-  ![Untitled video - Made with Clipchamp (1)](https://github.com/aditya-1404/MakeNote/assets/91134591/0b7ecb32-b24f-4e0e-8b9e-3b1034e8dfd1)
+  <br>
 
 
 <h1>Table of Contents</h1>
-<h3>1.Getting Started<br>
+1.Getting Started<br>
 2.Features<br>
-3.Usage<br></h3>
+3.Usage<br>
 
 <h1>Getting Started</h1><br>
 To use the MakeNotes App, follow these steps:<br>

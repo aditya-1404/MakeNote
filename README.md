@@ -15,7 +15,7 @@ The Notes App is a lightweight and user-friendly web application designed to hel
 
 
   
-  <br>![NotesApp - Google Chrome 2023-07-16 03-18-41 (1)](https://github.com/aditya-1404/MakeNote/assets/91134591/14f2f2b9-1f42-40bf-b1ac-0e9ace358f16)
+  ![NotesApp - Google Chrome 2023-07-16 03-18-41 (1)](https://github.com/aditya-1404/MakeNote/assets/91134591/14f2f2b9-1f42-40bf-b1ac-0e9ace358f16)
 
   <br>
 
